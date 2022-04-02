@@ -8,7 +8,8 @@ export default async function GenImage(word: string, artStyle: any): Promise<any
             defaultViewport: {
                 width: 1200,
                 height: 750
-            }
+            },
+            args: ['--no-sandbox']
         });
 
     const page = await browser.newPage();
