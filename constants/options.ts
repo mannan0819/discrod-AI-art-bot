@@ -1,0 +1,22 @@
+export const styles = [
+    'Psychedelic',
+    'Synthwave',
+    'Ghibli',
+    'Steampunk',
+    'Fantasy Art',
+    'Vibrant',
+    'HD',
+    'Psychic',
+    'Dark Fantasy',
+    'Mystical',
+    'Baroque',
+    'Etching',
+    'S.Dali',
+    'Wuhtercuhler',
+    'Provenance',
+    'Moonwalker',
+    'Blacklight',
+    'No Style',
+    'Ukiyoe',
+    'Rose Gold'
+]
